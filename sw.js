@@ -1,5 +1,5 @@
 // Service worker: the page and icons are cached for offline use; sounds and images are kept after first use.
-const PAGE = "meca-page-20261024-170757";
+const PAGE = "meca-page-20261101-121428";
 const KEEP = "meca-keep-v1";
 
 self.addEventListener("install", (e) => {
